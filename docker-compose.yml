@@ -2,7 +2,7 @@ version: "3"
 
 services:
   coursematerial:
-    image: devopsdockeruh/coursepage
+    image: volatilecolors/docker-deployment
     ports:
       - 4000:80
     container_name: coursematerial

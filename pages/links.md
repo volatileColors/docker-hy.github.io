@@ -6,7 +6,7 @@ permalink: /links/
 order: 8
 ---
 
-EDIT: EDITED TWICE
+EDIT: EDITED TWICE THRICE
 
 This page has some interesting links. They are not required to complete the course. Create a [pull request](https://github.com/docker-hy/docker-hy.github.io/pulls) if you have anything you'd like to share.
 
